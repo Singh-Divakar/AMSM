@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln.iml
+*.suo
+*.user
+*.userosscache
+*.vcxproj.filters
+
+# NuGet
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Test results
+TestResults/
+*.trx
