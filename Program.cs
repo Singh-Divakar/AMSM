@@ -335,9 +335,7 @@ class WatchdogApp
             {
                 FileName = executablePath,
                 Arguments = arguments,
-                UseShellExecute = false,
-                RedirectStandardOutput = false,
-                RedirectStandardError = false,
+                UseShellExecute = true,
                 CreateNoWindow = false
             };
 
