@@ -97,3 +97,40 @@
 2026-02-24 19:09:35 | INFO     | [Notepad] Terminated (PID 7560)
 2026-02-24 19:09:35 | INFO     | [Calculator] Terminated (PID 12268)
 2026-02-24 19:09:35 | INFO     | All processes terminated. Goodbye!
+2026-02-24 19:12:18 | INFO     | ============================================================
+2026-02-24 19:12:18 | INFO     | AMSM Watchdog starting
+2026-02-24 19:12:18 | INFO     | Config : F:\AMSM\config.xml
+2026-02-24 19:12:18 | INFO     | Log    : F:\AMSM\watchdog.log
+2026-02-24 19:12:18 | INFO     | ============================================================
+2026-02-24 19:12:18 | INFO     | Loaded 3 application(s) from config
+2026-02-24 19:12:18 | INFO     | [Notepad] Started  (PID 14520) — C:\Windows\System32\notepad.exe
+2026-02-24 19:12:18 | INFO     | [Calculator] Start=false — skipped
+2026-02-24 19:12:18 | INFO     | [Example Custom App] Start=false — skipped
+2026-02-24 19:12:18 | INFO     | Monitoring started (poll every 5s) — press Ctrl+C to stop
+2026-02-24 19:12:31 | INFO     | Received signal 2
+2026-02-24 19:12:32 | INFO     | Received signal 2
+2026-02-24 19:12:32 | INFO     | Received signal 2
+2026-02-24 19:12:33 | INFO     | Received signal 2
+2026-02-24 19:12:33 | INFO     | Shutting down — terminating managed processes …
+2026-02-24 19:12:33 | INFO     | All processes terminated. Goodbye!
+2026-02-24 19:12:50 | INFO     | ============================================================
+2026-02-24 19:12:50 | INFO     | AMSM Watchdog starting
+2026-02-24 19:12:50 | INFO     | Config : F:\AMSM\config.xml
+2026-02-24 19:12:50 | INFO     | Log    : F:\AMSM\watchdog.log
+2026-02-24 19:12:50 | INFO     | ============================================================
+2026-02-24 19:12:51 | INFO     | Loaded 3 application(s) from config
+2026-02-24 19:12:51 | INFO     | [Notepad] Start=false — skipped
+2026-02-24 19:12:51 | INFO     | [Calculator] Started  (PID 17320) — C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-02-24 19:12:51 | INFO     | [Example Custom App] Start=false — skipped
+2026-02-24 19:12:51 | INFO     | Monitoring started (poll every 5s) — press Ctrl+C to stop
+2026-02-24 19:12:56 | WARNING  | [Calculator] Exited with code 0 — restarting …
+2026-02-24 19:12:56 | INFO     | [Calculator] Started  (PID 16816) — C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-02-24 19:13:46 | WARNING  | [Calculator] Exited with code 0 — restarting …
+2026-02-24 19:13:46 | INFO     | [Calculator] Started  (PID 13200) — C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-02-24 19:20:28 | INFO     | Received signal 2
+2026-02-24 19:20:29 | INFO     | Received signal 2
+2026-02-24 19:20:29 | INFO     | Received signal 2
+2026-02-24 19:20:30 | INFO     | Received signal 2
+2026-02-24 19:20:30 | INFO     | Received signal 2
+2026-02-24 19:20:31 | INFO     | Shutting down — terminating managed processes …
+2026-02-24 19:20:31 | INFO     | All processes terminated. Goodbye!

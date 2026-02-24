@@ -4,7 +4,7 @@
     <Name>Notepad</Name>
     <Path>C:\Windows\System32\notepad.exe</Path>
     <Arguments></Arguments>
-    <Start>true</Start>    
+    <Start>false</Start>    
   </Application>
 
   <Application>
