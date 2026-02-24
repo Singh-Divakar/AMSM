@@ -1,0 +1,99 @@
+2026-02-24 18:46:36 | INFO     | ============================================================
+2026-02-24 18:46:36 | INFO     | AMSM Watchdog starting
+2026-02-24 18:46:36 | INFO     | Config : F:\AMSM\config.xml
+2026-02-24 18:46:36 | INFO     | Log    : F:\AMSM\watchdog.log
+2026-02-24 18:46:36 | INFO     | ============================================================
+2026-02-24 18:46:36 | INFO     | Loaded 3 application(s) from config
+2026-02-24 18:46:36 | INFO     | [Notepad] Started  (PID 11040) — C:\Windows\System32\notepad.exe
+2026-02-24 18:46:36 | INFO     | [Calculator] Start=false — skipped
+2026-02-24 18:46:36 | INFO     | [Example Custom App] Start=false — skipped
+2026-02-24 18:46:36 | INFO     | Monitoring started (poll every 5s) — press Ctrl+C to stop
+2026-02-24 18:46:41 | WARNING  | [Notepad] Exited with code 0 — restarting …
+2026-02-24 18:46:41 | INFO     | [Notepad] Started  (PID 17608) — C:\Windows\System32\notepad.exe
+2026-02-24 18:46:55 | INFO     | Received signal 2
+2026-02-24 18:46:56 | INFO     | Shutting down — terminating managed processes …
+2026-02-24 18:46:56 | INFO     | [Notepad] Terminated (PID 17608)
+2026-02-24 18:46:56 | INFO     | All processes terminated. Goodbye!
+2026-02-24 19:04:27 | INFO     | ============================================================
+2026-02-24 19:04:27 | INFO     | AMSM Watchdog starting
+2026-02-24 19:04:27 | INFO     | Config : F:\AMSM\config.xml
+2026-02-24 19:04:27 | INFO     | Log    : F:\AMSM\watchdog.log
+2026-02-24 19:04:27 | INFO     | ============================================================
+2026-02-24 19:04:27 | INFO     | Loaded 3 application(s) from config
+2026-02-24 19:04:28 | INFO     | [Notepad] Started  (PID 9464) — C:\Windows\System32\notepad.exe
+2026-02-24 19:04:28 | INFO     | [Calculator] Start=false — skipped
+2026-02-24 19:04:28 | INFO     | [Example Custom App] Start=false — skipped
+2026-02-24 19:04:28 | INFO     | Monitoring started (poll every 5s) — press Ctrl+C to stop
+2026-02-24 19:04:33 | WARNING  | [Notepad] Exited with code 0 — restarting …
+2026-02-24 19:04:33 | INFO     | [Notepad] Started  (PID 4488) — C:\Windows\System32\notepad.exe
+2026-02-24 19:04:46 | INFO     | Received signal 2
+2026-02-24 19:04:48 | INFO     | Shutting down — terminating managed processes …
+2026-02-24 19:04:48 | INFO     | All processes terminated. Goodbye!
+2026-02-24 19:05:07 | INFO     | ============================================================
+2026-02-24 19:05:07 | INFO     | AMSM Watchdog starting
+2026-02-24 19:05:07 | INFO     | Config : F:\AMSM\config.xml
+2026-02-24 19:05:07 | INFO     | Log    : F:\AMSM\watchdog.log
+2026-02-24 19:05:07 | INFO     | ============================================================
+2026-02-24 19:05:07 | INFO     | Loaded 3 application(s) from config
+2026-02-24 19:05:07 | INFO     | [Notepad] Started  (PID 17108) — C:\Windows\System32\notepad.exe
+2026-02-24 19:05:07 | INFO     | [Calculator] Start=false — skipped
+2026-02-24 19:05:07 | INFO     | [Example Custom App] Start=false — skipped
+2026-02-24 19:05:07 | INFO     | Monitoring started (poll every 5s) — press Ctrl+C to stop
+2026-02-24 19:05:12 | WARNING  | [Notepad] Exited with code 0 — restarting …
+2026-02-24 19:05:12 | INFO     | [Notepad] Started  (PID 8724) — C:\Windows\System32\notepad.exe
+2026-02-24 19:05:17 | WARNING  | [Notepad] Exited with code 0 — restarting …
+2026-02-24 19:05:17 | INFO     | [Notepad] Started  (PID 10496) — C:\Windows\System32\notepad.exe
+2026-02-24 19:05:28 | INFO     | Received signal 2
+2026-02-24 19:05:30 | INFO     | Received signal 2
+2026-02-24 19:05:30 | INFO     | Received signal 2
+2026-02-24 19:05:31 | INFO     | Received signal 2
+2026-02-24 19:05:31 | INFO     | Received signal 2
+2026-02-24 19:05:31 | INFO     | Received signal 2
+2026-02-24 19:05:31 | INFO     | Received signal 2
+2026-02-24 19:05:31 | INFO     | Received signal 2
+2026-02-24 19:05:31 | INFO     | Received signal 2
+2026-02-24 19:05:32 | INFO     | Received signal 2
+2026-02-24 19:05:32 | INFO     | Shutting down — terminating managed processes …
+2026-02-24 19:05:32 | INFO     | [Notepad] Terminated (PID 10496)
+2026-02-24 19:05:32 | INFO     | All processes terminated. Goodbye!
+2026-02-24 19:06:19 | INFO     | ============================================================
+2026-02-24 19:06:19 | INFO     | AMSM Watchdog starting
+2026-02-24 19:06:19 | INFO     | Config : F:\AMSM\config.xml
+2026-02-24 19:06:19 | INFO     | Log    : F:\AMSM\watchdog.log
+2026-02-24 19:06:19 | INFO     | ============================================================
+2026-02-24 19:06:19 | INFO     | Loaded 3 application(s) from config
+2026-02-24 19:06:19 | INFO     | [Notepad] Started  (PID 17496) — C:\Windows\System32\notepad.exe
+2026-02-24 19:06:19 | INFO     | [Calculator] Start=false — skipped
+2026-02-24 19:06:19 | INFO     | [Example Custom App] Start=false — skipped
+2026-02-24 19:06:19 | INFO     | Monitoring started (poll every 5s) — press Ctrl+C to stop
+2026-02-24 19:06:34 | WARNING  | [Notepad] Exited with code 0 — restarting …
+2026-02-24 19:06:34 | INFO     | [Notepad] Started  (PID 14384) — C:\Windows\System32\notepad.exe
+2026-02-24 19:06:54 | WARNING  | [Notepad] Exited with code 0 — restarting …
+2026-02-24 19:06:54 | INFO     | [Notepad] Started  (PID 12464) — C:\Windows\System32\notepad.exe
+2026-02-24 19:06:59 | WARNING  | [Notepad] Exited with code 0 — restarting …
+2026-02-24 19:06:59 | INFO     | [Notepad] Started  (PID 18188) — C:\Windows\System32\notepad.exe
+2026-02-24 19:07:01 | INFO     | Received signal 2
+2026-02-24 19:07:02 | INFO     | Received signal 2
+2026-02-24 19:07:04 | INFO     | Shutting down — terminating managed processes …
+2026-02-24 19:07:04 | INFO     | [Notepad] Terminated (PID 18188)
+2026-02-24 19:07:04 | INFO     | All processes terminated. Goodbye!
+2026-02-24 19:09:19 | INFO     | ============================================================
+2026-02-24 19:09:19 | INFO     | AMSM Watchdog starting
+2026-02-24 19:09:19 | INFO     | Config : F:\AMSM\config.xml
+2026-02-24 19:09:19 | INFO     | Log    : F:\AMSM\watchdog.log
+2026-02-24 19:09:19 | INFO     | ============================================================
+2026-02-24 19:09:19 | INFO     | Loaded 3 application(s) from config
+2026-02-24 19:09:20 | INFO     | [Notepad] Started  (PID 7560) — C:\Windows\System32\notepad.exe
+2026-02-24 19:09:20 | INFO     | [Calculator] Started  (PID 18400) — C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-02-24 19:09:20 | INFO     | [Example Custom App] Start=false — skipped
+2026-02-24 19:09:20 | INFO     | Monitoring started (poll every 5s) — press Ctrl+C to stop
+2026-02-24 19:09:25 | WARNING  | [Calculator] Exited with code 0 — restarting …
+2026-02-24 19:09:25 | INFO     | [Calculator] Started  (PID 16584) — C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-02-24 19:09:30 | WARNING  | [Calculator] Exited with code 0 — restarting …
+2026-02-24 19:09:30 | INFO     | [Calculator] Started  (PID 12268) — C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-02-24 19:09:34 | INFO     | Received signal 2
+2026-02-24 19:09:34 | INFO     | Received signal 2
+2026-02-24 19:09:35 | INFO     | Shutting down — terminating managed processes …
+2026-02-24 19:09:35 | INFO     | [Notepad] Terminated (PID 7560)
+2026-02-24 19:09:35 | INFO     | [Calculator] Terminated (PID 12268)
+2026-02-24 19:09:35 | INFO     | All processes terminated. Goodbye!

@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Applications>
-  <!-- Example 1: Simple application without arguments -->
   <Application>
     <Name>Notepad</Name>
-    <Path>notepad.exe</Path>
+    <Path>C:\Windows\System32\notepad.exe</Path>
     <Arguments></Arguments>
+    <Start>true</Start>    
   </Application>
 
-  <!-- Example 2: Application with arguments -->
   <Application>
     <Name>Calculator</Name>
-    <Path>C:\Windows\System32\calc.exe</Path>
+    <Path>C:\Program Files\Google\Chrome\Application\chrome.exe</Path>
     <Arguments></Arguments>
+    <Start>true</Start>    
   </Application>
 
-  <!-- Example 3: Custom application with multiple arguments -->
   <Application>
-    <Name>Web Server</Name>
+    <Name>Example Custom App</Name>
     <Path>C:\MyApp\server.exe</Path>
     <Arguments>--port 8080 --env production</Arguments>
-  </Application>
-
-  <!-- Example 4: Application with config file argument -->
-  <Application>
-    <Name>Database Service</Name>
-    <Path>C:\DatabaseService\db-service.exe</Path>
-    <Arguments>--config config.json --verbose</Arguments>
-  </Application>
-
-  <!-- Example 5: Application with quoted path -->
-  <Application>
-    <Name>My Application</Name>
-    <Path>C:\Program Files\MyApp\application.exe</Path>
-    <Arguments>--mode development --log-level debug</Arguments>
+    <Start>false</Start>    
   </Application>
 </Applications>
